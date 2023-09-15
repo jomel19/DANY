@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0,LIGA 1 MAX
+#EXTINF:0,LIGA 1 
 #EXTGRP:sin clasificar
-http://gotv.vip:8880/Kim1/Kim1/122387
+http://nxt.plus:8080/Belen/1234/167070
 #EXTINF:0,LIGA 1 MAX
 #EXTGRP:sin clasificar
 http://nxt.plus:8080/Prueba/12345/130639
